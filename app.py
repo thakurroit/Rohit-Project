@@ -84,6 +84,6 @@ def user_delete(id):
 
     return user_schema.jsonify(user)
 
-
+#Main function
 if __name__ == '__main__':
     app.run(debug=True)
