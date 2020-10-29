@@ -1,0 +1,5 @@
+venv/
+.env
+crud.sqlite
+.idea/misc.xml
+__pycache__/
